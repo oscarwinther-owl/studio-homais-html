@@ -5,16 +5,13 @@ h1
 line-height: 0.8;
 font-family: "arial";
 }
-p {
 
-    margin: left 40px;
-margin:top 0px;
-
-
-}
 h2
 {
-    text-align:center;
+    text-align:left;
+    font-size: 45px;
+    font-family: "arial";
+    line-height: 0.9;
  
 }
 body
