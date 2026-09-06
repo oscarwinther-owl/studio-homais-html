@@ -1,20 +1,21 @@
 *
 h1
 {
-    font-size: 50px;
+    font-size: 80px;
 line-height: 0.8;
 font-family: "arial";
+margin-top: 0px;
 }
 .intro 
 {
     display: flex;
     font-family: "arial";
-
+    
 }
 h2
 {
     text-align:left;
-    font-size: 45px;
+    font-size: 90px;
     font-family: "arial";
     line-height: 0.9;
  
@@ -31,4 +32,15 @@ body
 hr
 {
     border: 2px solid black;
+}
+img
+{
+    width: 99%;
+    border-radius: 30px;
+   
+}
+article
+{
+font-size: 10px;
+
 }
