@@ -5,7 +5,12 @@ h1
 line-height: 0.8;
 font-family: "arial";
 }
+.intro 
+{
+    display: flex;
+    font-family: "arial";
 
+}
 h2
 {
     text-align:left;
@@ -17,4 +22,13 @@ h2
 body
 {
     background-color: #f2ede6;
+}
+.MENU
+{
+    font-family: "arial";
+    text-align: right;
+}
+hr
+{
+    border: 2px solid black;
 }
